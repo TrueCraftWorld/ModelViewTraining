@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SocketModelQML/SocketDelegate.qml</file>
+        <file>SocketModelQML/Mode.qml</file>
+    </qresource>
+</RCC>
