@@ -21,8 +21,8 @@ Item {
             height: .7*parent.height
             anchors.bottom: parent.bottom
             anchors.horizontalCenter: parent.horizontalCenter
-            Font.bold: true
-            Font.pixelSize: 24
+//            Font.bold: true
+//            Font.pixelSize: 24
             // text: qsTr("text")
         }
         Text {
